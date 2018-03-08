@@ -4,6 +4,7 @@
     "name": "Skruv M6.20 8.8 FZB",
     "partsPerUnit": 8,
     "partsPerBox": 200,
-    "storageBin": "URE 1/1"
+    "storageRack": "URE Nollvägg",
+    "storageBin": "1/1"
   }
 ]
