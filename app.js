@@ -4,6 +4,7 @@ import router from './route'
 const app = express()
 
 app.set('view engine', 'ejs')
+app.use(express.static('public'))
 app.set('views', './template')
 
 app.get('/', (req, res) => {
